@@ -19,5 +19,8 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
   </ItemGroup>
+   <ItemGroup>
+    <ProjectReference Include="..\ERP.Core\ERP.Core.csproj" />
+  </ItemGroup>
 
 </Project>

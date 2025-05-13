@@ -1,12 +1,10 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-
-namespace ERP.Business
+namespace ERP.Core
 {
     public static class Dependency
     {
-        public static IServiceCollection AddBuisnessDI(this IServiceCollection services) 
+        public static IServiceCollection AddBuisnessDI(this IServiceCollection services)
         {
-
             return services;
         }
 
