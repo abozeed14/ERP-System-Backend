@@ -1,5 +1,4 @@
 ﻿using ERP.Data.Data;
-using ERP.Data.Entities;
 using ERP.Core.Interfaces.Repositories;
 using ERP.Data.Repository;
 using Microsoft.AspNetCore.Identity;

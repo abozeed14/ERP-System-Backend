@@ -1,7 +1,7 @@
 using ERP.Business;
 using ERP.Data;
 using ERP.Data.Data;
-using ERP.Data.Entities;
+using ERP.Core.Entities;
 using ERP.Presentation;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.DependencyInjection;
